@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>Mobiltest</name>
+   <tag></tag>
+   <UUID>6bd78304-cb10-47c5-8032-b04223673ccd</UUID>
+   <pageLoadTimeout>30</pageLoadTimeout>
+</Project>
